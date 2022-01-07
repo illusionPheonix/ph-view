@@ -4,4 +4,5 @@ MyLine.install = (Vue) => {
   Vue.component(MyLine.name, MyLine);
 };
 
+
 export default MyLine;
